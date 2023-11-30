@@ -14,3 +14,5 @@ for sector in secret_letter:
         for letter in elements:
             if letter in small_rus:
                 print(letter, end = '')
+
+# Расшифровка
