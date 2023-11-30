@@ -76,3 +76,6 @@ def register_user(username: str, password: str) -> None:
 
 
 register_user('user1', '12345678Zz!')
+
+
+# Декораторы
