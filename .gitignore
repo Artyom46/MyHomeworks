@@ -158,3 +158,14 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+/.idea/.gitignore
+/hw_331/.idea/.gitignore
+/hw_331/.idea/hw_331.iml
+/.idea/misc.xml
+/hw_331/.idea/misc.xml
+/.idea/modules.xml
+/hw_331/.idea/modules.xml
+/.idea/MyHomeworks.iml
+/.idea/inspectionProfiles/profiles_settings.xml
+/hw_331/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/vcs.xml
