@@ -26,3 +26,5 @@ for film, film_dict in full_dict.items():
     if film_dict['stage'] == stage_string:
         result = film_dict['title']
         pprint(result)
+
+# Поиск подборки
