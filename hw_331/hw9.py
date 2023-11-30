@@ -38,3 +38,5 @@ while cities_set:
 
 else:
     print('Вы выиграли!')
+
+# Игра в города
