@@ -90,3 +90,5 @@ for i in range(user_request):
     result = random_proverbs.replace('Ум', random_variants.capitalize())
     void_list = result  # void_list.append(result)
     print(result)
+
+# Генератор пословиц
