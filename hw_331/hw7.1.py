@@ -9,3 +9,6 @@ for item in data_lst:
     except ValueError:
         print(f'Не валидные данные: {item}')
 print(void_list)
+
+
+# Проверка на значения
