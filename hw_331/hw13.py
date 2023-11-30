@@ -47,3 +47,6 @@ pprint(filtered_by_ch)
 # Сортировка по одному параметру title
 sorted_by_title: Dict[int, Dict[str, str | int]] = dict(sorted(full_dict.items(), key=lambda x: x[1]['title']))
 pprint(sorted_by_title, sort_dicts=False)
+
+
+# ДЗ 13
